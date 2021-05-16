@@ -32051,6 +32051,15 @@ input[type=range].ubuntu-slider::-webkit-slider-thumb {
   list-style: "⇀";
 }
 
+.underlined {
+  text-decoration: underline;
+}
+
+.title-case {
+  list-style: circle;
+  text-transform: capitalize;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

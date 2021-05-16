@@ -6,7 +6,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 import ReactGA from 'react-ga';
-const TRACKING_ID = "UA-182113713-1";
+const TRACKING_ID = "G-7B9Q2YGHPP";
 ReactGA.initialize(TRACKING_ID);
 
 ReactDOM.render(

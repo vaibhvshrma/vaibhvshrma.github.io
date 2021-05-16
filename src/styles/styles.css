@@ -231,3 +231,12 @@ input[type=range].ubuntu-slider::-webkit-slider-thumb {
 .list-arrow {
     list-style: "⇀";
 }
+
+.underlined {
+    text-decoration: underline;
+}
+
+.title-case {
+    list-style: circle;
+    text-transform: capitalize;
+}
